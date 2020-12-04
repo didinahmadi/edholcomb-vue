@@ -1,4 +1,6 @@
-# vue-test
+# Vue Sample Apps
+
+This is frontend apps that built by VueJs, it only serve as frontend side, need backend server to make it fully working.
 
 ## Project setup
 ```
@@ -24,6 +26,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
